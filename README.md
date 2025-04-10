@@ -1,5 +1,5 @@
 # gmail-suffix-generator
-![](/docs/7ee3436e02aedb07ab329c70e56cf3e89d907e3e_2_662x500.png)
+![](/milo.jpg)
 
 A simple email generator that uses the [gmail aliases feature]( https://support.cloudhq.net/how-to-setup-gmail-aliases/#:~:text=Append%20a%20plus%20(“%2B”,at%20yourusername%40gmail.com. ) to generate unlimited email addresses which all point to one inbox.
 This means u can create multiple accounts for a service while all trafic is pointed to one inbox which is usefull for mass creating accounts.
