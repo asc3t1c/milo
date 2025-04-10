@@ -70,8 +70,8 @@ made by: kurecdupchev
     answer = input()
     if answer == "1" :
         email
-        genAmount = int(input("How many suffix do you want to generate?         "))
-        emailinput = input("give the gmail acc u wanna use                        ")
+        genAmount = int(input("How many suffix do you want to generate?   "))
+        emailinput = input("give the gmail acc u wanna use   ")
         prefixgen(genAmount, emailinput)
 
     elif answer == "2":
