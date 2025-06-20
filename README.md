@@ -14,7 +14,7 @@ WARNING⚠️: This isn't a Google account generator.
 
 1.  download the repo
 
-2.  open shukatrut.py
+2.  open milo.py
 
 3.  go into the "generate suffix" submenu
 
