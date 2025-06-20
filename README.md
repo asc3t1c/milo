@@ -20,7 +20,7 @@ WARNING⚠️: This isn't a Google account generator.
 
 4.  input ur <u><mark>**gmail**</mark></u> address and select how many emails u want to generate
 
-5.  the emails will be exported automatically to the "shukatrut.py" directory (Output.txt).
+5.  the emails will be exported automatically to the "milo.py" directory (Output.txt).
 
 ## Working status:
 | Status | Service       |
